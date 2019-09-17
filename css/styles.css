@@ -123,4 +123,6 @@ img.my-picture {
   max-width: 100%;
   background-color: #7C2E1D;
   color: white;
+  text-align: center;
+  font-weight: 600;
 }
