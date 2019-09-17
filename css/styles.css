@@ -60,7 +60,7 @@ img.logo {
 .hero {
   padding: 4em;
   max-width: 100%;
-  background-color: #294860;
+  background-color: #7C2E1D;
   color: white;
 }
 
@@ -83,7 +83,7 @@ img.my-picture {
 
 .my-info {
   max-width: 100%;
-  color: #404040;
+  color: #494848;
   font-size: 1.6rem;
   line-height: 1.5;
   margin: 0px auto 3em;
@@ -116,4 +116,11 @@ img.my-picture {
 .about-content {
     border-left: 1px solid #DFEAF1;
     padding-left: 3rem;
+}
+
+.footer {
+  padding: 2em;
+  max-width: 100%;
+  background-color: #7C2E1D;
+  color: white;
 }
