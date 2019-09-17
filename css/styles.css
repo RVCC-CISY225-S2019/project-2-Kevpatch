@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   margin: 0;
 
 }
@@ -76,7 +76,7 @@ img.my-picture {
 
 .iama {
   max-width: 100%;
-  color: #294860;
+  color: #7C2E1d;
   font-size: 1.1em;
   font-style: italic;
 }
