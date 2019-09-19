@@ -1,7 +1,6 @@
 body {
   font-family: 'Fira Sans', sans-serif;
   margin: 0;
-
 }
 
 .content {
@@ -119,10 +118,11 @@ img.my-picture {
 }
 
 .footer {
-  padding: 2em;
+  padding: 4em;
   max-width: 100%;
   background-color: #7C2E1D;
   color: white;
+  font-size: 1.6rem;
   text-align: center;
   font-weight: 600;
 }
